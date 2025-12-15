@@ -108,3 +108,14 @@ Linkedin = linkedin.com/in/ali-abeer-522289357
 
 ## 📁 Project Structure
 
+├── SQL/
+│ ├── database_creation.sql
+│ ├── churn_analysis_queries.sql
+│ └── reporting_views.sql
+├── PowerBI/
+│ ├── Churn_Analysis.pbix
+│ ├── Demographics_Profile.pbix
+│ └── Financial_Performance.pbix
+├── Documentation/
+│ └── Project_Explanation.docx
+└── README.md
